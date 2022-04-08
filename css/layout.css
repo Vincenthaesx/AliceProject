@@ -1,4 +1,4 @@
-body { background: #0f0f0f; }
+body { background: #ffffff; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -285,7 +285,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #location {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/location.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -294,55 +294,12 @@ call-to-action .button {
    min-height: 200px;
    width: 100%;
    overflow: hidden;
-}
-#location .text-container {
-   padding-top: 96px;
-   padding-bottom: 66px;
-}
-#location h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;   
-   text-transform: uppercase;
-   letter-spacing: 3px;
-   color: #fff;
-}
-#location h1 span { display: none; }
-#location .header-col { padding-top: 9px; }
-#location .header-col h1:before {
-   font-family: 'FontAwesome';
-   content: "\f10d";
-	padding-right: 10px;
-	font-size: 72px;
-   line-height: 72px;
-   text-align: left;
-   float: left;
-   color: #fff;
+   color: white;
 }
 
-/*	Blockquotes */
-#location blockquote {
-   margin: 0 0px 30px 0px;
-   padding-left: 0;
-   position: relative;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+#location h1 {
+   color: white;
 }
-#location blockquote:before { content: none; }
-#location blockquote p {
-   font-family: 'librebaskerville-italic', serif;
-   padding: 0;
-   font-size: 24px;
-   line-height: 48px;
-   color: #fff
-}
-#location blockquote cite {
-   display: block;
-   font-size: 12px;
-   font-style: normal;
-   line-height: 18px;
-   color: #fff;
-}
-#location blockquote cite:before { content: "\2014 \0020"; }
-#location blockquote cite a,
-#location blockquote cite a:visited { color: #8B9798; border: none }
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
