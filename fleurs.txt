@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "picture": "",
+            "name": "Oeillet d'inde",
+            "quantity": "undefined",
+            "lotQuantity": "undefined",
+            "price": "undefined,"
+            "lotPrice": "undefined,"
+        },
+	{
+            "id": "2",
+            "picture": "",
+            "name": "Oeillet de poéte",
+            "quantity": "undefined",
+            "lotQuantity": "undefined",
+            "price": "undefined,"
+            "lotPrice": "undefined,"
+        },
+	{
+            "id": "3",
+            "picture": "",
+            "name": "Immortelle jaune / blanc",
+            "quantity": "undefined",
+            "lotQuantity": "undefined",
+            "price": "undefined,"
+            "lotPrice": "undefined,"
+        },
+	{
+            "id": "4",
+            "picture": "",
+            "name": "Geranium",
+            "quantity": "undefined",
+            "lotQuantity": "undefined",
+            "price": "undefined,"
+            "lotPrice": "undefined,"
+        },
+	{
+            "id": "5",
+            "picture": "",
+            "name": "Dahlia",
+            "quantity": "undefined",
+            "lotQuantity": "undefined",
+            "price": "undefined,"
+            "lotPrice": "undefined,"
+        }
+    ]
+}
