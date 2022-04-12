@@ -1,7 +1,6 @@
 {
     "data": [
         {
-            "id": "1",
             "picture": "tomate.jpg",
             "name": "Tomates",
             "quantity": "1",
@@ -10,7 +9,6 @@
             "lotPrice": "4€ 80"
         },
         {
-            "id": "2",
             "picture": "courgetteLongue.jpg",
             "name": "Courgette longue",
             "quantity": "1",
@@ -19,7 +17,6 @@
             "lotPrice": "4€ 80"
         },
         {
-            "id": "3",
             "picture": "cornichon.jpg",
             "name": "Cornichon",
             "quantity": "1",
@@ -28,7 +25,6 @@
             "lotPrice": "4€ 80"
         },
         {
-            "id": "4",
             "picture": "cocombreLong.jpg",
             "name": "Cocombre long",
             "quantity": "1",
@@ -37,7 +33,6 @@
             "lotPrice": "4€ 80"
         },
         {
-            "id": "5",
             "picture": "cocombreCourt.jpg",
             "name": "Cocombre court",
             "quantity": "1",
@@ -46,7 +41,6 @@
             "lotPrice": "4€ 80"
         },
         {
-            "id": "6",
             "picture": "poivron.jpg",
             "name": "Poivron",
             "quantity": "1",
@@ -55,7 +49,6 @@
             "lotPrice": "4€ 80"
         },
         {
-            "id": "7",
             "picture": "aubergine.jpg",
             "name": "Aubergine",
             "quantity": "1",
@@ -64,16 +57,14 @@
             "lotPrice": "4€ 80"
         },
         {
-            "id": "8",
             "picture": "artichaut.jpg",
             "name": "Artichaut",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "6€",
+            "price": "6 €",
             "lotPrice": "undefined"
         },
         {
-            "id": "9",
             "picture": "pasteque.jpg",
             "name": "Pastèque",
             "quantity": "1",
@@ -82,7 +73,6 @@
             "lotPrice": "undefined"
         },
         {
-            "id": "10",
             "picture": "melon.jpg",
             "name": "Melon",
             "quantity": "1",
@@ -91,7 +81,6 @@
             "lotPrice": "undefined"
         },
         {
-            "id": "11",
             "picture": "saladesDiverses.jpg",
             "name": "Salades diverses",
             "quantity": "6",
@@ -100,7 +89,6 @@
             "lotPrice": "undefined"
         },
         {
-            "id": "12",
             "picture": "potiron.jpg",
             "name": "Potiron",
             "quantity": "1",
@@ -109,7 +97,6 @@
             "lotPrice": "undefined"
         },
         {
-            "id": "13",
             "picture": "potimaron.jpg",
             "name": "Potimaron",
             "quantity": "1",
@@ -118,7 +105,6 @@
             "lotPrice": "undefined"
         },
         {
-            "id": "14",
             "picture": "butternut.jpg",
             "name": "Butternut",
             "quantity": "1",
@@ -127,7 +113,6 @@
             "lotPrice": "undefined"
         },
         {
-            "id": "15",
             "picture": "courgeMusque.jpg",
             "name": "Courge musquée de provence",
             "quantity": "1",
@@ -136,7 +121,6 @@
             "lotPrice": "undefined"
         },
         {
-            "id": "16",
             "picture": "courgeSpaghetti.jpg",
             "name": "Courge spaghetti",
             "quantity": "1",
@@ -145,12 +129,19 @@
             "lotPrice": "undefined"
         },
         {
-            "id": "17",
             "picture": "courgePatidou.jpg",
             "name": "Courge patidou",
             "quantity": "1",
             "lotQuantity": "3",
             "price": "undefined",
+            "lotPrice": "undefined"
+        },
+        {
+            "picture": "physalis.jpg",
+            "name": "Physalis",
+            "quantity": "1",
+            "lotQuantity": "undefined",
+            "price": "3 €",
             "lotPrice": "undefined"
         }
     ]

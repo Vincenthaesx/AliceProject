@@ -272,7 +272,7 @@ C’est ainsi que j’ai pu en faire profiter mon entourage, à la suite de cela
                     {
                         'data': 'price',
                         'render': function(data, type, full, meta) {     
-                            if (full.quantity !== "undefined" || data !== "undefined") {
+                            if (full.quantity !== "undefined" && data !== "undefined") {
                                 return '<p> Lot de '+full.quantity+' : '+data+' </p>';
                             } else {
                                 return '<p> </p>'
@@ -283,7 +283,7 @@ C’est ainsi que j’ai pu en faire profiter mon entourage, à la suite de cela
                     {
                         'data': 'lotPrice',
                         'render': function(data, type, full, meta) {     
-                            if (full.lotQuantity !== "undefined" || data !== "undefined") {                               
+                            if (full.lotQuantity !== "undefined" && data !== "undefined") {                               
                                 return '<p> Lot de '+full.lotQuantity+' : '+data+' </p>';
                             } else {
                                 return '<p> </p>'
