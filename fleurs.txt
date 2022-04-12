@@ -11,17 +11,17 @@
 	    {
             "picture": "oeilletPoete.jpg",
             "name": "Oeillet de poéte",
-            "quantity": "undefined",
+            "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "undefined",
+            "price": "1€ 80",
             "lotPrice": "undefined"
         },
 	    {
             "picture": "immortelle.jpg",
             "name": "Immortelle jaune / blanc",
-            "quantity": "undefined",
+            "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "undefined",
+            "price": "1€ 80",
             "lotPrice": "undefined"
         },
 	    {
