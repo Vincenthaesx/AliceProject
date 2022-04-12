@@ -49,13 +49,7 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, summary,
 time, mark, audio, video {
-   margin: 0;
-   padding: 0;
    border: 0;
-   outline: 0;
-   font-size: 100%;
-   vertical-align: baseline;
-   background: transparent;
 }
 
 article,aside,details,figcaption,figure,
@@ -171,7 +165,6 @@ h5 { font-size: 18px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
 .subheader { }
 
-p { margin: 0 0 30px 0; }
 p img { margin: 0; }
 p.lead {
    font: 19px/36px 'opensans-light', sans-serif;
@@ -533,21 +526,6 @@ input[type="text"],
 input[type="password"],
 input[type="email"],
 textarea,
-select {
-   display: block;
-   padding: 18px 15px;
-   margin: 0 0 24px 0;
-   border: 0;
-   outline: none;
-   vertical-align: middle;
-   min-width: 225px;
-	max-width: 100%;
-   font-size: 15px;
-   line-height: 24px;
-	color: #647373;
-	background: #D3D9D9;
-
-}
 
 /* select { padding: 0;
    width: 220px;
