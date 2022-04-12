@@ -69,6 +69,17 @@
                 width: 150px;
                 margin: 15px;
             }
+
+
+            .galeriePicture {
+    transition: -webkit-transform 0.25s ease;
+    transition: transform 0.25s ease;
+}
+
+.galeriePicture:hover {
+    -webkit-transform: scale(3);
+    transform: scale(3);
+}
         </style>
 
         <header id="home">
@@ -142,7 +153,25 @@ C’est ainsi que j’ai pu en faire profiter mon entourage, à la suite de cela
 
         </section>
 
-        <section id="location">
+        <section id="photos" class="py-5" style="margin-bottom: 100px;"> 
+            
+            <div class="container">
+
+                <h3 class="fw-bolder mt-5"> Galerie photos</h3>
+
+                <table id="galerie" class="table table-sm table-hover datatableCard" cellspacing="0" width="100%">
+                    <thead>
+                        <tr>
+                            <th></th>
+                         </tr>
+                    </thead>
+                </table>
+
+            </div>
+
+        </section>
+
+        <section id="location" class="mt-5">
 
             <div class="row">
 
@@ -321,6 +350,76 @@ C’est ainsi que j’ai pu en faire profiter mon entourage, à la suite de cela
 
 
             }
+
+             $('#galerie').DataTable({
+                'ajax': 'galerie.txt',
+                'columns': [
+                    {
+                        'orderable': false,
+                        'data': 'picture',
+                        'className': 'text-center',
+                        'render': function(data, type, full, meta) {                                    
+                            return '<img src="images/galerie/'+data+'" class="galeriePicture" style="height: 200px;width:200px;">';
+                        }
+                    }
+                ],
+                'language': {
+                    "search": "Recherche",
+                    "lengthMenu": "_MENU_ par page",
+                    "zeroRecords": "Aucune information trouvée",
+                    "info": "_TOTAL_ résultats",
+                    "infoEmpty": "",
+                    "infoFiltered": "",
+                    "processing": "Chargement en cours...",
+                    "oPaginate": {
+                        "sPrevious": "Précédent",
+                        "sNext": "Suivant"
+                    }
+                },
+                "paging": true,
+                "pagingType": "simple_numbers",
+                "h": 25,
+                  "dom": '<"d-none"i>t<"bottom"<"float-left"l><"float-right"p>r><"clear">',
+                 "columnDefs": [{
+                            targets: '_all',
+                            className: 'datatableCustomSize'
+                        }],
+                'drawCallback': function (settings) {
+                    var api = this.api();
+                    var $table = $(api.table().node());
+            
+                    if ($table.hasClass('cards')) {
+
+                        // Create an array of labels containing all table headers
+                        var labels = [];
+                        $('thead th', $table).each(function () {
+                            labels.push($(this).text());
+                        });
+
+                        // Add data-label attribute to each cell
+                        $('tbody tr', $table).each(function () {
+                            $(this).find('td').each(function (column) {
+                                $(this).attr('data-label', labels[column]);
+                            });
+                        });
+
+                        var max = 0;
+                        $('tbody tr', $table).each(function () {
+                            max = Math.max($(this).height(), max);
+                        }).height(max);
+
+                    } else {
+                        // Remove data-label attribute from each cell
+                        $('tbody td', $table).each(function () {
+                            $(this).removeAttr('data-label');
+                        });
+
+                        $('tbody tr', $table).each(function () {
+                             $(this).height('auto');
+                        });
+                    }
+                }
+            });
 
         });
             
