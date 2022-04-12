@@ -161,8 +161,8 @@
             "lotPrice": "undefined"
         },
         {
-            "picture": "gelosie.jpg",
-            "name": "Gelosie",
+            "picture": "celosie.jpg",
+            "name": "Celosie",
             "quantity": "1",
             "lotQuantity": "undefined",
             "price": "1€ 80",
