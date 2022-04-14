@@ -5,7 +5,7 @@
             "name": "Cœur de bœuf",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "5 €"
         },
         {
@@ -13,7 +13,7 @@
             "name": "Marmande",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "5 €"
         },
         {
@@ -21,7 +21,7 @@
             "name": "Montfavet",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "5 €"
         },
         {
@@ -29,7 +29,7 @@
             "name": "Saint pierre",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "5 €"
         },
         {
@@ -37,7 +37,7 @@
             "name": "Cornue des Andes",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "5 €"
         },
         {
@@ -45,7 +45,7 @@
             "name": "Noire de Crimée",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "5 €"
         },
         {
@@ -53,96 +53,96 @@
             "name": "Brandywine",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "2€ 20",
-            "lotPrice": "6€ 30"
+            "price": "2, 80 €",
+            "lotPrice": "6, 30 €"
         },
         {
             "picture": "greenZebra.jpg",
             "name": "Green zebra",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "2€ 20",
-            "lotPrice": "6€ 30"
+            "price": "2, 20 €",
+            "lotPrice": "6, 30 €"
         },
         {
             "picture": "indigoRose.jpg",
             "name": "Indigo rose",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "2€ 20",
-            "lotPrice": "6€ 30"
+            "price": "2, 20 €",
+            "lotPrice": "6, 30 €"
         },
         {
             "picture": "tomateCeriseRouge.jpg",
             "name": "Tomate cerise rouge",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 90",
-            "lotPrice": "5€ 40"
+            "price": "1, 90 €",
+            "lotPrice": "5, 40 €"
         },
         {
             "picture": "tomateJaunePoire.jpg",
             "name": "Tomate jaune poire",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 90",
-            "lotPrice": "5€ 40"
+            "price": "1, 90 €",
+            "lotPrice": "5, 40 €"
         },
         {
             "picture": "tomateChocolate.jpg",
             "name": "Tomate chocolate",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 90",
-            "lotPrice": "5€ 40"
+            "price": "1, 90 €",
+            "lotPrice": "5, 40 €"
         },
         {
             "picture": "courgetteLongue.jpg",
             "name": "Courgette longue",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
-            "lotPrice": "4€ 80"
+            "price": "1, 80 €",
+            "lotPrice": "4, 80 €"
         },
         {
             "picture": "cornichon.jpg",
             "name": "Cornichon",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
-            "lotPrice": "4€ 80"
+            "price": "1, 80 €",
+            "lotPrice": "4, 80 €"
         },
         {
             "picture": "cocombreLong.jpg",
             "name": "Cocombre long",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
-            "lotPrice": "4€ 80"
+            "price": "1, 80 €",
+            "lotPrice": "4, 80 €"
         },
         {
             "picture": "cocombreCourt.jpg",
             "name": "Cocombre court",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
-            "lotPrice": "4€ 80"
+            "price": "1, 80 €",
+            "lotPrice": "4, 80 €"
         },
         {
             "picture": "poivron.jpg",
             "name": "Poivron",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
-            "lotPrice": "4€ 80"
+            "price": "1, 80 €",
+            "lotPrice": "4, 80 €"
         },
         {
             "picture": "aubergine.jpg",
             "name": "Aubergine",
             "quantity": "1",
             "lotQuantity": "3",
-            "price": "1€ 80",
-            "lotPrice": "4€ 80"
+            "price": "1, 80 €",
+            "lotPrice": "4, 80 €"
         },
         {
             "picture": "artichaut.jpg",

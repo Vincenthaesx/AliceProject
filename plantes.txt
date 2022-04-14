@@ -5,7 +5,7 @@
             "name": "Persil",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "3€ 50",
+            "price": "3, 50 €",
             "lotPrice": "undefined"
         },
         {
@@ -13,7 +13,7 @@
             "name": "Basilic",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "3€ 50",
+            "price": "3, 50 €",
             "lotPrice": "undefined"
         },
         {
@@ -21,7 +21,7 @@
             "name": "Bourrache",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "3€ 50",
+            "price": "3, 50 €",
             "lotPrice": "undefined"
         },
         {
@@ -29,7 +29,7 @@
             "name": "Ciboulette",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "3€ 50",
+            "price": "3, 50 €",
             "lotPrice": "undefined"
         },
         {
@@ -37,7 +37,7 @@
             "name": "Menthe",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "4€ 50",
+            "price": "4, 50 €",
             "lotPrice": "undefined"
         },
         {
@@ -45,7 +45,7 @@
             "name": "Origan",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "4€ 50",
+            "price": "4, 50 €",
             "lotPrice": "undefined"
         },
         {
@@ -53,7 +53,7 @@
             "name": "Romarin",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "4€ 50",
+            "price": "4, 50 €",
             "lotPrice": "undefined"
         }
         

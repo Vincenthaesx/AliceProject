@@ -5,7 +5,7 @@
             "name": "Oeillet d'inde",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
 	    {
@@ -13,7 +13,7 @@
             "name": "Oeillet de poéte",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
 	    {
@@ -21,7 +21,7 @@
             "name": "Immortelle jaune / blanc",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
 	    {
@@ -69,7 +69,7 @@
             "name": "Pensée",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -77,7 +77,7 @@
             "name": "Crète de coq",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -85,7 +85,7 @@
             "name": "Rose d'inde",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -93,7 +93,7 @@
             "name": "Coleus",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -101,7 +101,7 @@
             "name": "Cosmos",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -109,7 +109,7 @@
             "name": "Centaurée",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -117,7 +117,7 @@
             "name": "Lupin",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -125,7 +125,7 @@
             "name": "Ipomee a grandes fleurs",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -133,7 +133,7 @@
             "name": "Digitale pourpre",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -141,7 +141,7 @@
             "name": "Adonis d'été",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -149,7 +149,7 @@
             "name": "Pois de santeur",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -157,7 +157,7 @@
             "name": "Gypsophile",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -165,7 +165,7 @@
             "name": "Celosie",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -173,7 +173,7 @@
             "name": "Grande giroflée",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -181,7 +181,7 @@
             "name": "Impatiente",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -189,7 +189,7 @@
             "name": "Pavot",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -197,7 +197,7 @@
             "name": "Sauge farineuse",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -205,7 +205,7 @@
             "name": "Ficoïde tricolore",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
@@ -213,7 +213,7 @@
             "name": "Limnanthe de douglas",
             "quantity": "1",
             "lotQuantity": "undefined",
-            "price": "1€ 80",
+            "price": "1, 80 €",
             "lotPrice": "undefined"
         },
         {
